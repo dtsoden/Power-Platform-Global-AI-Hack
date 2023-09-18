@@ -5,7 +5,7 @@ Visit the open source website to learn more where this is open to the to the ent
 https://processsentinel.com/
 
 
-## Instructions
+## Installation & Custom Connector Setup Instructions
 
  - Download the attached solution "ProcessSentinel.Zip"
  - Import the solution into your environment
