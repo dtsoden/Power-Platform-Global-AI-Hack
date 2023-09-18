@@ -24,7 +24,7 @@ https://processsentinel.com/
  - OpenAI direct
 	 - Simply swap out the key. Edit #3 Definition and edit the Authorization Policy and change out the YOUR_KEY for the header value
 
-### Canvas App Configiration
+### Canvas App Configuration
  - Edit the canvas application,edit the app on-start property and change the value of the variable Set(API,"OpenAI"); // set to "AzureOpenAI" or "OpenAI"
 
 
