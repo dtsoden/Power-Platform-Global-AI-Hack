@@ -1,4 +1,4 @@
-# THis application ProcessSentinel, has been submitted to the Microsoft-Power-Platform-Global-AI-Hackathon-2023
+# This application ProcessSentinel, has been submitted to the Microsoft-Power-Platform-Global-AI-Hackathon-2023
 
 Visit the open source website to learn more where this is open to the to the entire community.
 https://processsentinel.com/
